@@ -1,0 +1,27 @@
+_repo: Sotto-il-velameSaggio-di-un-interpretazione-generale-del-poema-sacro_45594
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45594-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pascoli, Giovanni
+    birthdate: 1855
+    deathdate: 1912
+    gutenberg_agent_id: '41750'
+    url: http://www.gutenberg.org/2009/agents/41750
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2014-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45594'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Dante Alighieri, 1265-1321. Divina commedia'
+title: 'Sotto il velame: Saggio di un''interpretazione generale del poema sacro'
+url: http://www.gutenberg.org/ebooks/45594
